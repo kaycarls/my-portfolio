@@ -1,7 +1,6 @@
 export default defineNuxtConfig({
   modules: [
     '@invictus.codes/nuxt-vuetify',
-    '@nuxtjs/google-fonts',
   ],
   vuetify: {
     /* vuetify options */
